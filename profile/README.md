@@ -32,10 +32,11 @@ At Code Sefid, we're committed to excellence in software development. Our team m
 
 Here are some of the projects we've worked on:
 
-- Project 1: Brief description of the project and our contributions.
-- Project 2: Brief description of the project and our contributions.
-- Project 3: Brief description of the project and our contributions.
-- (Add more projects as needed)
+- Project 1: https://github.com/Code-Sefid/Laravel-shop-project
+- Project 2: https://github.com/Code-Sefid/personal-website-admin
+- Project 3: https://github.com/Code-Sefid/NegarShop
+- Project 4: https://github.com/Code-Sefid/Manto-Store
+- Project 5: https://github.com/Code-Sefid/dastak
 
 ## How to Get Involved
 
@@ -49,10 +50,10 @@ Interested in joining the Code Sefid team or collaborating on a project? Here's 
 
 Have questions or want to connect with us? Here's how you can reach out:
 
-- **Email:** [team@codesefid.com](mailto:team@codesefid.com)
-- **GitHub:** [@CodeSefid](https://github.com/CodeSefid)
-- **Website:** [www.codesefid.com](https://www.codesefid.com)
-- **LinkedIn:** [Code Sefid](https://www.linkedin.com/company/codesefid)
+- **Email:** [team@codesefid.com](codesefid@gmail.com)
+- **GitHub:** [@CodeSefid](https://github.com/Code-Sefid)
+- **Website:** [www.codesefid.com]( http://codesefid.ir)
+<!-- - **LinkedIn:** [Code Sefid](https://www.linkedin.com/company/codesefid) -->
 
 We look forward to hearing from you!
 
